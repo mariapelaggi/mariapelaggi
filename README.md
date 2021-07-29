@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Maria Eduarda Pelaggi 👋
 
 - 🔭 Atualmente trabalho como QA na Radix Engenharia e Software.
-- 💻 Atua no projeto de Bilhetagem Eletrônica na Supervia
+- 💻 Atuo no projeto de Bilhetagem Eletrônica na Supervia
 - 🌱 Estudando Automação de Testes
 - 😃 Pronome: ela/dela
 
