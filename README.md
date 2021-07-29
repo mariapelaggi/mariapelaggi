@@ -5,6 +5,12 @@
 - 🌱 Estudando Automação de Testes
 - 😃 Pronome: ela/dela
 
+<div>
+  <a href="https://github.com/mariapelaggi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariapelaggi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariapelaggii&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <div> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Duda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,7 +23,6 @@
   <img align="center" alt="Duda-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Duda-Raspberry" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-line.svg">
   <img align="center" alt="Duda-Vstudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-  <img align="right" alt="Duda" src="https://im7.ezgif.com/tmp/ezgif-7-8df37a633cec.gif">
 </div>
 
   ##
