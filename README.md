@@ -26,7 +26,6 @@
   <img align="center" alt="Duda-Raspberry" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-line.svg">
   <img align="center" alt="Duda-Vstudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
 </div>
-
   ##
 <div> 
   
