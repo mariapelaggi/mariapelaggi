@@ -1,7 +1,7 @@
 ### Olá, bem vindo(a) ao meu perfil! Eu sou a Maria Eduarda Pelaggi 👋
 
-- 🔭 Atualmente trabalho como QA na Radix Engenharia e Software
-- 💻 Atuo no projeto de Bilhetagem Eletrônica na Supervia
+- 🔭 Atuo na área de Qualidade de Software e Testes
+- 💻 Estudo Ciencia da Computação
 - 🌱 Estudando Automação de Testes
 - 😃 Pronome: ela/dela
 
